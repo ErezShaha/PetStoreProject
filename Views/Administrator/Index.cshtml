@@ -1,0 +1,44 @@
+﻿ @model IEnumerable<Animal>
+
+<h2>Administrator</h2>
+<div>
+    <span>Category
+    </span>
+    <form asp-action="Index" method="get">
+        <select name="categoryId" onchange="this.form.submit()">
+            <option value="0">All Categories</option>
+            @foreach (var category in ViewBag.Categories)
+            {
+                <option selected="@(ViewBag.SelectedCategory == category.CategoryId ? true:false)" value="@category.CategoryId">@category.Name</option>
+            }
+        </select>
+    </form>
+    
+</div>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Picture</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Edit, Remove or <form asp-action="AddAnimalView"><button type="submit">Add</button></form> </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var animal in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@animal.PictureName" alt="@animal.Name" style="width: 200px; height: 200px;" />
+                </td>
+                <td>@animal.Name</td>
+                <td>@animal.Age</td>
+                <td>
+                    <form asp-action="Edit" asp-route-id=@animal.AnimalId>
+                        <button class="btn btn-secondary" type="submit">Edit</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

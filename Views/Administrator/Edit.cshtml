@@ -1,0 +1,69 @@
+﻿@model Animal
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card" style="width: 18rem;">
+                <img src="@Model.PictureName" class="card-img-top" alt="@Model.Name">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Name</h5>
+                    <p class="card-text"><strong>Age:</strong> @Model.Age</p>
+                    <p class="card-text"><strong>Description:</strong> @Model.Description</p>
+                    <p class="card-text"><strong>Category:</strong> @Model.Category!.Name</p>
+                    <form asp-action="ConfirmDelete" asp-route-animalId="@Model.AnimalId">
+                        <button class="btn btn-danger" type="submit">Delete</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        @* Editing an Animal *@
+        <div class="col-md-6"
+               <div>
+                    <form asp-action="EditAnimal" enctype="multipart/form-data">
+                        <input type="hidden" asp-for="AnimalId" value="@Model.AnimalId"/>
+                        <input type="hidden" asp-for="Comments" value="@Model.Comments."/>
+                        <input type="hidden" asp-for="Category" value="@Model.Category"/>
+                        <input type="hidden" asp-for="PictureName" value="@Model.PictureName"/>
+                <div class="card" style="width: 18rem;">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td><label asp-for="@Model.Name">Name:</label></td>    
+                                <td><input required type="text" asp-for="Name" value="@Model.Name"/></td>
+                            </tr>
+                            <tr>
+                                <td><label asp-for="Age">Age:</label></td>
+                                <td><input required type="number" min="0" asp-for="Age" value="@Model.Age" /></td>
+                            </tr>
+                            <tr>
+                                <td><label asp-for="Description">Description:</label></td>
+                                <td><textarea  rows="4"  cols="24" asp-for="Description">@Model.Description</textarea></td>
+                            </tr>
+                            <tr>
+                                <td><Label for="SelectedPicture">Picure:</Label></td>
+                                <td><input type="file" name="SelectedPicture"/></td>
+                            </tr>
+                            <tr>
+                                <td><label> Category:</label></td>
+                                <td>
+                                    <select asp-for="CategoryId">
+                                            @foreach (var category in ViewBag.Categories)
+                                            {
+                                            <option selected="@(ViewBag.SelectedCategory == category.CategoryId ? true:false)" value="@category.CategoryId">@category.Name</option>
+                                            }
+                                    </select>
+                                </td>
+                            </tr>
+                              <tr>
+                                <td><button class="btn btn-success" type="submit">Apply Edit</button></td>
+                            </tr>        
+                     </tbody>
+                    </table>
+                 </div>
+                 <br/>
+                </form>
+               </div>
+        </div>
+    </div>
+</div>
+      

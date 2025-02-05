@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\controllers\\administratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:controllers\\administratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\administrator\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\administrator\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\administrator\\addanimalview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\administrator\\addanimalview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\administrator\\confirmedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\administrator\\confirmedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\administrator\\confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\administrator\\confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\administrator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\administrator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\service\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:service\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\service\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:service\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\catalog\\animaldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\catalog\\animaldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\context\\petstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:context\\petstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\wwwroot\\image\\crocodile.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:wwwroot\\image\\crocodile.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\wwwroot\\image\\img-20241101-wa0040.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:wwwroot\\image\\img-20241101-wa0040.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\wwwroot\\image\\bearbear.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:wwwroot\\image\\bearbear.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|c:\\users\\erezs\\desktop\\sela\\mvc\\petstoreproject\\petstoreproject\\petstoreproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FC45D58-5795-4BA4-BC47-1041D2A9E961}|PetStoreProject.csproj|solutionrelative:petstoreproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:02:36.615Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Service\\AnimalService.cs",
+              "RelativeDocumentMoniker": "Service\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Service\\AnimalService.cs",
+              "RelativeToolTip": "Service\\AnimalService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAEwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:19:46.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAnimalView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\AddAnimalView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrator\\AddAnimalView.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\AddAnimalView.cshtml",
+              "RelativeToolTip": "Views\\Administrator\\AddAnimalView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:44:52.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\Index.cshtml",
+              "RelativeToolTip": "Views\\Administrator\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:29:32.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrator\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Administrator\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:05:59.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\ConfirmDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrator\\ConfirmDelete.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\ConfirmDelete.cshtml",
+              "RelativeToolTip": "Views\\Administrator\\ConfirmDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:07:08.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfirmEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\ConfirmEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrator\\ConfirmEdit.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Administrator\\ConfirmEdit.cshtml",
+              "RelativeToolTip": "Views\\Administrator\\ConfirmEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T17:42:20.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:06:39.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdministratorController.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Controllers\\AdministratorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdministratorController.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Controllers\\AdministratorController.cs",
+              "RelativeToolTip": "Controllers\\AdministratorController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwEoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:23:44.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Service\\IRepository.cs",
+              "RelativeDocumentMoniker": "Service\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Service\\IRepository.cs",
+              "RelativeToolTip": "Service\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:14:42.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:03:08.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:41:31.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:28:39.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnimalDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Catalog\\AnimalDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\AnimalDetails.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Catalog\\AnimalDetails.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\AnimalDetails.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:29:50.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Catalog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Catalog\\Index.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:09:01.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T08:15:58.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:30:48.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PetStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Context\\PetStoreContext.cs",
+              "RelativeDocumentMoniker": "Context\\PetStoreContext.cs",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Context\\PetStoreContext.cs",
+              "RelativeToolTip": "Context\\PetStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:00:49.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T13:07:19.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PetStoreProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\PetStoreProject.csproj",
+              "RelativeDocumentMoniker": "PetStoreProject.csproj",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\PetStoreProject.csproj",
+              "RelativeToolTip": "PetStoreProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T08:52:09.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Crocodile.jpg - Bitmap [1024x1024, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\wwwroot\\Image\\Crocodile.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Image\\Crocodile.jpg",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\wwwroot\\Image\\Crocodile.jpg - Bitmap [1024x1024, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Image\\Crocodile.jpg - Bitmap [1024x1024, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-06T12:29:11.825Z",
+              "EditorCaption": " - Bitmap [1024x1024, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T12:59:23.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMG-20241101-WA0040.jpg - Bitmap [739x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\wwwroot\\Image\\IMG-20241101-WA0040.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Image\\IMG-20241101-WA0040.jpg",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\wwwroot\\Image\\IMG-20241101-WA0040.jpg - Bitmap [739x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Image\\IMG-20241101-WA0040.jpg - Bitmap [739x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-06T09:51:18.962Z",
+              "EditorCaption": " - Bitmap [739x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bearbear.jpg - Bitmap [1024x1024, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\wwwroot\\Image\\bearbear.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Image\\bearbear.jpg",
+              "ToolTip": "C:\\Users\\Erezs\\Desktop\\sela\\mvc\\PetStoreProject\\PetStoreProject\\wwwroot\\Image\\bearbear.jpg - Bitmap [1024x1024, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Image\\bearbear.jpg - Bitmap [1024x1024, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-06T10:47:29.106Z",
+              "EditorCaption": " - Bitmap [1024x1024, 24 bit, JPG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

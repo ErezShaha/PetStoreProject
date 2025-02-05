@@ -1,0 +1,42 @@
+﻿
+                    <form asp-action="AddAnimal" enctype="multipart/form-data">
+                        <input type="hidden" name="Category" />
+                <div class="card" style="width: 18rem;">
+                    <h3>Add Animal</h3>
+                    <table>
+                        <tbody>
+                            <tr>
+                            <td><label name="Name">Name:</label></td>
+                                <td><input required type="text" name="Name"/></td>
+                            </tr>
+                            <tr>
+                            <td><label name="Age">Age:</label></td>
+                                <td><input required type="number" min="0" name="Age"  /></td>
+                            </tr>
+                            <tr>
+                            <td><label name="Description">Description:</label></td>
+                                <td><textarea required rows="4"  cols="24" name="Description"></textarea></td>
+                            </tr>
+                            <tr>
+                                <td><Label for="SelectedPicture">Picure:</Label></td>
+                                <td><input type="file" name="SelectedPicture"/></td>
+                            </tr>
+                           
+                                <td><label> Category:</label></td>
+                                <td>
+                                <select name="CategoryId">
+                                            @foreach (var category in ViewBag.Categories)
+                                            {
+                                                    <option selected="@(ViewBag.SelectedCategory == category.CategoryId ? true:false)" value="@category.CategoryId">@category.Name</option>
+                                            }
+                                    </select>
+                                </td>
+                            </tr>
+                              <tr>
+                                <td><button class="btn btn-success" type="submit">Add Animal</button></td>
+                            </tr>
+                     </tbody>
+                    </table>
+                 </div>
+                </form>
+               

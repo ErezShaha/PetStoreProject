@@ -1,0 +1,40 @@
+﻿@model Animal
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card" style="width: 18rem;">
+                <img src="@Model.PictureName" class="card-img-top" alt="@Model.Name">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Name</h5>
+                    <p class="card-text"><strong>Age:</strong> @Model.Age</p>
+                    <p class="card-text"><strong>Description:</strong> @Model.Description</p>
+                    <p class="card-text"><strong>Category:</strong> @Model.Category!.Name</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <h4>Comments:</h4> @if (Model.Comments != null && Model.Comments.Any())
+            {
+                <ul class="list-group">
+                    @foreach (var comment in Model.Comments)
+                    {
+                        <li class="list-group-item"> @comment.Content </li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>No comments available.</p>
+            }
+            <h5>Add a Comment:</h5>
+            <form method="post" asp-action="AddComment" asp-route-animalId="@Model.AnimalId">
+                <div class="form-group">
+                    <textarea name="Content" class="form-control" placeholder="Enter your comment here" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary mt-2">Add Comment</button>
+            </form>
+        </div>
+    </div>
+</div>

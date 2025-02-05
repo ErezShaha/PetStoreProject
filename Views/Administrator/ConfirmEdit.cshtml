@@ -1,0 +1,9 @@
+﻿@model Animal
+<div class="btn-group" role="group" aria-label="Basic example">
+    <form asp-action="Edit" asp-route-id="@Model.AnimalId">
+        <button class="btn btn-secondary" type="submit">Cancel</button>
+    </form>
+    <form asp-action="EditAnimal" asp-route-animal="@Model">
+        <button class="btn btn-primary" type="submit">Confirm</button>
+    </form>
+</div>

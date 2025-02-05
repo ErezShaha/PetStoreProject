@@ -1,0 +1,26 @@
+﻿ @model IEnumerable<PetStoreProject.Models.Animal>
+
+<h2>Animal List</h2>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Picture</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Number of Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var animal in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@animal.PictureName" alt="@animal.Name" style="width: 200px; height: 200px;" />
+                </td>
+                <td>@animal.Name</td>
+                <td>@animal.Description</td>
+                <td>@animal.Comments.Count</td>
+            </tr>
+        }
+    </tbody>
+</table>
